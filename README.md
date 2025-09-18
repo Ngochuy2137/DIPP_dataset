@@ -6,10 +6,10 @@ This repository provides a trajectory dataset of 20 diverse objects with varying
 
 The dataset includes:
 - 20 distinct objects with varying shapes and physical properties, each exhibiting different aerodynamic behaviors.
-- Recorded motion features
+- Recorded motion features:
     - including features: position, velocity, acceleration
-    - collection rate: 120hz
-    - motion capture system: OptiTrack
+    - sampling rate: 120hz
+    - motion capture system: OptiTrack PrimeX13W
 
 ## 📥 Download & Usage
 
